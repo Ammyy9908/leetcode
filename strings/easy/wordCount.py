@@ -7,5 +7,6 @@ def word_count(s):
     return count+1
 
 
+# this program use to count the word 
 
 print(word_count("Hello"))
